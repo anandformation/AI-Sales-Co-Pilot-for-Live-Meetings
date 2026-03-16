@@ -4,6 +4,14 @@ Real-time AI assistant that listens to your sales meetings and coaches you using
 
 ---
 
+## 🏛️ Architecture
+
+<p align="center">
+  <img src="docs/architecture-diagram.png" alt="System Architecture Diagram" width="700"/>
+</p>
+
+---
+
 ## ✨ Features
 
 - **🎙️ Live Audio Transcription** — Captures both your microphone and system/screen audio via Gemini's native audio model
